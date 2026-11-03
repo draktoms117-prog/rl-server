@@ -1,0 +1,7 @@
+{
+  "name": "rl-server",
+  "version": "1.0.0",
+  "main": "rl-server.js",
+  "scripts": { "start": "node rl-server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
